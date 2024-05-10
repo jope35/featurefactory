@@ -3,5 +3,9 @@
 # %% auto 0
 __all__ = ['foo']
 
-# %% ../nbs/00_core.ipynb 3
-def foo(): pass
+# %% ../nbs/00_core.ipynb 2
+print("hello feature")
+
+# %% ../nbs/00_core.ipynb 4
+def foo():
+    pass
